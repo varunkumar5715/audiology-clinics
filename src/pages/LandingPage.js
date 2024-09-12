@@ -33,7 +33,11 @@ function LandingPage() {
 
                 <div>
                     <h2>About</h2>
-                    <p>{about}</p>
+                    {Array.isArray(about) && about.map((paragraph, index) => (
+                        <p key={index}>{paragraph}</p>
+                    ))}
+                    {/* Fallback in case `about` is not an array */}
+                    {!Array.isArray(about) && <p>{about}</p>}
                 </div>
 
                 <h2>Objectives</h2>
@@ -50,6 +54,7 @@ function LandingPage() {
                                     <p className='titleBold'>{member.name}</p>
                                     <p>{member.designation}</p>
                                     <p>{member.address}</p>
+                                    <p>{member.email}</p>
                                 </div>
                             ))}
                         </div>

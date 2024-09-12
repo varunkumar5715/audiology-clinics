@@ -1,54 +1,73 @@
 {
     "labs": [
         {
-            "about": "Home About Us",
-            "objectives": [
-              "The objective of the clinic is to screen for the presence of hearing, auditory processing, and cognitive deficits of all the patients who visit the clinic to facilitate early identification of these conditions and rehabilitation in them."
+            "about": [
+                "The Department of Audiology at JSSISH, Mysuru is dedicated to advancing the science of hearing and balance disorders, promoting best practices in clinical care, and developing highly skilled audiology professionals. With a commitment to providing comprehensive services, excellent education, research, and public outreach, the department operates through four key verticals: Clinical Services, Manpower Development, Research, and Public Education",
+                " Our department prides itself on delivering standardized, evidence-based assessment protocols and tailored management solutions for individuals of all ages experiencing hearing and balance disorders. Our clinical services cover a wide range of audiological conditions, including but not limited to hearing loss, tinnitus, balance disorders, auditory processing disorders, and newborn hearing screenings. Our standardized assessment protocols ensure that each patient receives a thorough, accurate diagnosis using the latest audiological equipment and technology. Following the diagnosis, we offer appropriate management and treatment options that are patient-centered, addressing the unique needs of each individual. These management services include hearing aid fitting and counseling, cochlear implants, vestibular rehabilitation, and auditory-verbal therapy, among others. We are committed to improving the quality of life of our patients through personalized care and continuous monitoring, ensuring the best possible outcomes. Presently, we are providing service in geriatric wellness clinics, Perinatal speech, language and hearing stimulation, newborn hearing in NICU, tinnitus clinics, vestibular clinics, communication and listening training clinics, cochlear implant clinics, hearing aid fitting and dispensing clinics, and outreach school screening and industrial clinics, as well as satellite hospitals delivering similar services",
+                " The Department of Audiology plays a pivotal role in manpower development by imparting quality education and training to aspiring audiologists. Our goal is to equip future professionals with the necessary skills and knowledge to provide exemplary patient care. We offer a range of academic programs, including UG, PG in Audiology, PhD in Audiology, and add-on courses. Through hands-on clinical training, simulation labs, and expert faculty guidance, we prepare our students to become highly skilled professionals capable of addressing the growing demand for audiological services worldwide",
+                " We aim to solve immediate problems in society by conducting research that directly impacts public health. For example, our studies on newborn hearing screening have led to improved early identification protocols, ensuring children receive the care they need as soon as possible. Our research is not limited to the laboratory; we actively collaborate with hospitals, clinics, and other research institutions both locally and internationally to apply our findings in real-world settings. Our research is supported by national and international grants, and we take pride in publishing in reputable journals, presenting at global conferences, and contributing to the advancement of audiology as a field",
+                " The Department of Audiology is dedicated to the prevention of hearing and balance disorders, including tinnitus, through various public education initiatives. Our efforts aim to raise awareness and provide actionable information to communities, helping them take proactive steps to safeguard their hearing and balance health. To achieve this, we conduct a variety of outreach programs such as: Health camps, Street plays, Short videos, Newspaper articles, Walkathons, Cyclotrons, and Marathons, and Observing Important Days of communication disorders. Through our public education efforts, we strive to reduce the incidence of hearing and balance disorders and improve overall public health"
             ],
-          
+            "objectives": [
+                "The objective of the clinic is to screen for the presence of hearing, auditory processing, and cognitive deficits of all the patients who visit the clinic to facilitate early identification of these conditions and rehabilitation in them.",
+                "To provide standardized, evidence-based assessment and personalized management of hearing and balance disorders, ensuring high-quality care and improved patient outcomes.",
+                "To impart quality education and hands-on training in audiology through undergraduate, postgraduate, PhD, and add-on courses, preparing students to provide patient-centered care and address the growing demand for audiology services.",
+                "To conduct research in thrust areas, focusing on solving immediate societal problems related to hearing and balance disorders, and contributing to the global body of knowledge in audiology.",
+                "To educate the public about the prevention of hearing and balance disorders by organizing health camps, street plays, short videos, articles, and community events such as walkathons, cyclothons, and marathons, while observing important communication disorder days.",
+                "To encourage interdepartmental and cross-institutional collaboration for evidence-based practices, leading to the development of innovative solutions and materials in audiology.",
+                "To implement community-based prevention strategies for hearing and balance disorders by focusing on primary, secondary, and tertiary prevention through public education, screenings, and timely interventions."
+              ],
             "members": [
-              {
-                "name": "Dr. Pratibha Pereira",                
-                "designation": "Professor of Geriatrics",
-                "address": "JSS Hospital"
-               
-              },
-              {
-                "name": "Mr. Vipin Goush",
-                "designation": "Assistant Professor",
-                "address": "JSSISH"
-            
-              },
-              {
-                "name": "Mr. Guru Mallesh",
-                "designation": "Clinical Supervisor",
-                "address": "JSSISH"
-              
-              }
+                {
+                    "name": "Dr. Asha. Yathiraj",
+                    "designation": "Professor of Audiology",
+                    "address": "JSSISH Mysuru",
+                    "email":"asha_yathiraj@rediffmail.com"
+                },
+                {
+                    "name": "Dr. Hemanth N",
+                    "designation": "Professor of Audiology",
+                    "address": "JSSISH Mysuru",
+                     "email":"hemanthn.shetty@jssish.in"
+                },
+                {
+                    "name": "Mr. Vishal K",
+                    "designation": "Assistant Professor of Audiology,",
+                    "address": "JSSISH Mysuru",
+                     "email":"vishal@jssish.in"
+                },
+                {
+                    "name": "Mrs. Sanjana",
+                    "designation": "Assistant Professor of Audiology",
+                    "address": "JSSISH Mysuru",
+                     "email":"sanjanasingh@jssish.in"
+                },
+                {
+                    "name": "Mr. Vipin",
+                    "designation": "Assistant Professor of Audiology",
+                    "address": "JSSISH Mysuru",
+                     "email":"vipinghosh@jssish.in"
+                }
             ],
             "images": [
                 "../assest/hemanth.jpg",
                 "../assest/suma.jpg",
                 "../assest/hemanth.jpg",
                 "../assest/suma.jpg"
-              ]
-          },
+            ]
+        },
         {
-           
-            "about":"It has been found that more than one-third of the Indian population experience age-related hearing loss, affecting social functioning and quality of life. Despite this, many geriatric individuals manage their hearing difficulties without seeking professional consultation until communication challenges become severe. Even mild hearing loss increases the risk of dementia and contributes to social isolation and psychological distress among older adults. In March 2023, the JSS Institute of Speech and Hearing installed a hearing wellness clinic in the Department of Geriatrics at JSS Hospital, Mysuru. This clinic serves older adults visiting the department, offering free screenings for hearing and cognitive abilities and guiding further referrals for detailed audiological evaluations as needed. For those diagnosed with treatable hearing loss, appropriate hearing aids are recommended to alleviate functional impairments and improve quality of life. The clinic also provides a platform for student training, enhancing clinical skills in geriatric hearing assessment and rehabilitation as part of their educational curriculum. Medical professionals in the department are actively involved in referring cases to the clinic. The clinical process includes comprehensive case histories covering audiological, vestibular, cognitive, and speech-language aspects, along with otoscopic examinations for medical referrals. Screening tests are conducted at frequencies ranging from 500 to 8000 Hz at 25 dB, supplemented by the administration of questionnaires such as HHIE-S, HHIA-S, SCAP-A, and MMSE. Anticipated outcomes include early detection of hearing loss and cognitive decline, prompt referrals for specialized care, fitting of hearing aids where needed, and the use of clinic data for retrospective and prospective research initiatives.",
-        
+            "about": "It has been found that more than one-third of the Indian population experience age-related hearing loss, affecting social functioning and quality of life. Despite this, many geriatric individuals manage their hearing difficulties without seeking professional consultation until communication challenges become severe. Even mild hearing loss increases the risk of dementia and contributes to social isolation and psychological distress among older adults. In March 2023, the JSS Institute of Speech and Hearing installed a hearing wellness clinic in the Department of Geriatrics at JSS Hospital, Mysuru. This clinic serves older adults visiting the department, offering free screenings for hearing and cognitive abilities and guiding further referrals for detailed audiological evaluations as needed. For those diagnosed with treatable hearing loss, appropriate hearing aids are recommended to alleviate functional impairments and improve quality of life. The clinic also provides a platform for student training, enhancing clinical skills in geriatric hearing assessment and rehabilitation as part of their educational curriculum. Medical professionals in the department are actively involved in referring cases to the clinic. The clinical process includes comprehensive case histories covering audiological, vestibular, cognitive, and speech-language aspects, along with otoscopic examinations for medical referrals. Screening tests are conducted at frequencies ranging from 500 to 8000 Hz at 25 dB, supplemented by the administration of questionnaires such as HHIE-S, HHIA-S, SCAP-A, and MMSE. Anticipated outcomes include early detection of hearing loss and cognitive decline, prompt referrals for specialized care, fitting of hearing aids where needed, and the use of clinic data for retrospective and prospective research initiatives.",
             "objectives": [
                 " The objective of the clinic is to screen for the presence of hearing, auditory processing, and cognitive deficits of all the patients who visits the clinic to facilitate early identification of these conditions and rehabilitation in them."
-           
             ],
-          
             "Perspective": [
-                "Conduct awareness program to patients and their families to educate them about hearing loss and systematic illness on  cognitive impairment.", 
-"To develop pamphlets on communication strategies to overcome the difficulties in conversation.", 
-"Participate in or initiate clinical trials to explore new treatment modalities and interventions for elderly individuals.",
-"Collaborate with international organizations and experts to stay abreast of the latest research and treatment methodologies.",
-"Develop an online repository of educational materials, including videos, articles, and interactive tools, to support patient learning on mild cognitive impairment."
- ],
+                "Conduct awareness program to patients and their families to educate them about hearing loss and systematic illness on  cognitive impairment.",
+                "To develop pamphlets on communication strategies to overcome the difficulties in conversation.",
+                "Participate in or initiate clinical trials to explore new treatment modalities and interventions for elderly individuals.",
+                "Collaborate with international organizations and experts to stay abreast of the latest research and treatment methodologies.",
+                "Develop an online repository of educational materials, including videos, articles, and interactive tools, to support patient learning on mild cognitive impairment."
+            ],
             "members": [
                 {
                     "name": "Dr. Pratibha Pereira",
@@ -66,10 +85,8 @@
                     "address": "JSSISH"
                 }
             ]
-         
         },
         {
-            
             "about": "The Joint Committee on Infant Hearing (JCIH) recommends early detection and early intervention for all infants who are at risk for hearing loss. With the aim to identify children with hearing loss early and habilitate/rehabilitate them, the JSS Institute of Speech and Hearing has implemented the new born hearing screening program from the past two decades. The goals of early hearing detection and intervention are to maximize language and communication competence, literacy development, and psychosocial well-being for children with hearing loss. With this motto, we strive to ensure that all the newborns should undergo hearing screening prior to discharge from the birth hospital and no later than one month of age, using physiologic measures of determining hearing sensitivity. Through this program all the well babies are assessed to rule out the presence of congenital hearing loss. All the newborns in the neonatal intensive care unit who are at risk for hearing loss are screened and followed up rigorously to determine the presence or absence of hearing loss. The institute is associated with the JSS hospital which has experienced neonatologist, pediatrician, otolayngologists and allied health professionals for the successful implementation of the program. Additionally, state of the art facilities for genetic testing and counselling are available which will pave way for prevention of hearing loss. Multidisciplinary team of professionals including audiologists, pediatrician, otorhinolaryngologist, nursing personnel and the family of the child affected will be involved in the newborn hearing screening program. With early detection and appropriate, targeted intervention, developmental milestones for an infant with hearing loss can be expected to be achieved, more accurately reflecting the child’s true potential. The major goal of early identification and intervention is mainstreaming of the child in the society and to create a barrier free environment for the child’s overall development. With the Pediatric Hearing Wellness Program we are working towards primary prevention of hearing loss and to ameliorate the quality of life of children with hearing loss as well as the family members",
             "objectives": [
                 "To confirm the presence of hearing loss and rehabilitate these infants no later than 6 months of age.",
@@ -81,7 +98,6 @@
                 "To aspire for prevention of hearing loss.",
                 "To counsel and educate the family members regarding normal development of hearing, speech and language milestones."
             ],
-          
             "Perspective": [
                 "Develop protocol suits for our culture and population",
                 "Implement a continuous improvement process to refine screening protocols and practices based on feedback and new research findings",
@@ -106,7 +122,6 @@
             ]
         },
         {
-          
             "about": "Tinnitus clinic is an initiative by JSS Institute of Speech and hearing in association with various medical specialities of JSS hospital. Tinnitus can be caused by a variety of issues, and having specialists within the hospital setting allows for a more coordinated approach to diagnosis and treatment. Ear, Nose, and Throat (ENT) specialists, neurologists, and psychologists are working unison to lessen and or alleviate the perception of tinnitus and improving the overall quality of life. In Tinnitus clinic, a detailed audiological, ENT, neurological and psychological evaluation are conducted by the specialised clinician and doctors. Medical, behavioural therapy (Sound Therapy, CBT), yoga and objective treatment (TDCs) are provided to those patients who are suffering from bothersome tinnitus. In addition, outcome measurements are carried out to document the efficiency of treatment. Tinnitus clinic allowing patients to receive all the diagnostic tests and treatments they need in one location. This can save patients time and money, and it can also help to ensure that they receive the most appropriate care.",
             "objectives": [
                 "Provide medical and/or rehabilitative care to the patient having bothersome tinnitus at the earliest.",
@@ -114,7 +129,6 @@
                 "Provide ongoing training and professional development opportunities for staff and students to stay updated with the latest advancements in the field.",
                 "Develop mobile applications to help patients follow their treatment plans, and communicate with their healthcare providers."
             ],
-           
             "Perspective": [
                 "Provide medical and/or rehabilitative care to the patient having bothersome tinnitus at the earliest.",
                 "To offer comprehensive intervention services through a multidisciplinary approach that reduces the difficulties caused due to tinnitus.",
@@ -160,7 +174,6 @@
             ]
         },
         {
-           
             "about": "Vestibular (Balance) clinic is an initiative by JSS Institute of Speech and hearing in association with various medical specialities of JSS hospital. A vestibular clinic is a medical facility that specializes in the diagnosis and treatment of various problems secondary to inner ear and central vestibular disorders. Our vestibular clinic can help to identify the underlying cause of vestibular dysfunction so that appropriate treatment can be initiated Vestibular disorders can be caused by a variety of issues and having specialists within the hospital setting allows for a more coordinated approach to diagnosis and treatment. Ear, Nose, and Throat (ENT) specialists, neurologists, audiologists and physical therapists are working unison to pinpoint the problem and develop a treatment plan specific to the patient's needs.Vestibular clinic allowing patients to receive all the diagnostic tests and treatments they need in one location. This can save patients time and money, and it can also help to ensure that they receive the most appropriate care.Vestibular clinic is equipped with tailor made testing protocol and specialized equipment necessary for diagnosing vestibular disorders. This can help to ensure that patients receive an accurate diagnosis.Balance rehabilitation is a key component of treatment for many vestibular disorders. Having rehabilitation services integrated within the vestibular clinic allows for a smoother transition from diagnosis to treatment",
             "objectives": [
                 "To accurately diagnose the nature of vestibular problem and provide medical and/or rehabilitative care at the earliest.",
@@ -172,7 +185,6 @@
                 "Develop mobile applications to help patients follow their treatment plans, and communicate with their healthcare providers.",
                 "Utilize data analytics to assess treatment outcomes, identify trends, and make informed decisions to improve patient care."
             ],
-           
             "Perspective": [
                 "Develop an online repository of educational materials, including videos, articles, and interactive tools, to support patient learning.",
                 "Participate in or initiate clinical trials to explore new treatment modalities and interventions for vertigo and balance disorders.",
@@ -235,7 +247,6 @@
             ]
         },
         {
-       
             "about": "Hearing loss at birth or later stage misses out sounds has an impact on language development speaking, reading, learning, and social skills. The infant’s hearing needs to be assessed andfitted with a hearing aid device to avoid the consequences of hearing loss. Hearing loss at a later stage, misses out sounds has an impact on communication leads to isolation and depression. The hearing ability of adults and older adults needs to be assessed and fitted with a hearing aid device to avoid the consequences of hearing loss. Hearing aid will be recommended based on patient’s listening needs and affordability. Using state of art equipment the hearing aid is programmed. The programmed hearing aid is validated in clinical situation. The patients are counselled about the care and maintenance of hearing aid. Service support system and loaner hearing aid option are available such that patient will be connected with dear once even though their personal hearing aid is under repair. Furthermore, outcome measures are administered through tele-mode to validate the fitted hearing aid in real time situations. ",
             "objectives": [
                 "Recommend the most suitable hearing aids based on individual hearing profiles, lifestyle needs, and preferences.",
@@ -250,7 +261,6 @@
                 "Train students on hearing aid programming, validating, and counseling.",
                 "Work with governments and NGOs to offer subsidized hearing aids for low-income patients."
             ],
-          
             "Perspective": [
                 "Regularly update staff training programs to include the latest advancements in audiology and hearing aid technology.",
                 "Partner with educational institutions to offer certification courses and continuing education for audiologists and hearing aid dispensers.",
@@ -284,12 +294,10 @@
             ]
         },
         {
-           
             "about": "Cochlear implant is regarded as standard of care for severe to profound sensorineural loss, if hearing aid is not benefitted. The cochlear implant program at the JSS Institute of Speech and Hearing (JSSISH), Mysuru, was launched in 2017. The program was initiated by providing services for one cochlear implant company and has now expanded to other companies available in India. We have empaneled with central (ADIP and ESI) and state (SAST) government cochlear implant schemes. The institute offers services related to pre-implant evaluation, counselling, intra-operation evaluation, switch-on/ mapping, and habilitation. As iterated, cochlear implants are recommended for those who do not benefit from hearing aids after a detailed audiological evaluation. Soon after the cochlear implant surgery, the audiologists carry out tests in the operation theatre to confirm the functioning of the device and integrity of auditory nerve.  Subsequent to the surgical wound healing, switch-on and post-implant counselling are carried out.  The recommended mapping schedule is provided on appointment basis, ensuring that the individuals get the maximum benefit from their devices, which is confirmed by outcome measures. ",
             "objectives": [
                 "The primary objective of cochlear implant unit is to a) to assess CI candidature criteria b)  b) facilitates the global development and literacy skills among cochlear implant recipients. b) facilitates service and troubleshooting of cochlear implants."
             ],
-           
             "Perspective": [
                 "Increase the number of therapy sessions taken annually. Extend the hearing screening program in rural and underserved areas to identify candidature for cochlear implant.  Conduct clinical trials to assess the effectiveness of noval approaches and techniques on outcome measures.  Collaborate with universities and research institutions to explore novel therapeutic approaches. Establish peer support groups to foster community and share experiences. Host conferences and seminars to disseminate the latest research and best practices. Plan for long-term growth by expanding infrastructure and resources. Regularly review and update strategic plans to adapt to emerging trends and challenges in the field."
             ],
@@ -332,7 +340,6 @@
             ]
         },
         {
-           
             "about": " The Communication & Listening training Unit caters to give listening therapy to children with hearing aid and cochlear implant recipients. Therapy slots are provided in alterative days (3 days/ week or two days/ week). Parents of beneficiaries can select the therapy slots.  Individualized lesson plan with specific goals in auditory, speech, cognition etc. will be formulated by looking into the pretherapy assessment. Once in every fortnight the lesson plan will be changed based on improvement shown in the scheduled therapy. Trained qualified professionals supervise and provide the services at the unit. The CLT unit has dedicated therapy rooms specifically designed for children. Also, there are good resource materials and models available to provide quality therapy for children with hearing impairment. Clinicians are involved in developing activity modules for children with hearing impairment.",
             "objectives": [
                 "To improve global development in those hearing-impaired children fitted with hearing aids or who underwent cochlear implants.",
@@ -344,7 +351,6 @@
                 "Conduct clinical research and promote evidence-based practice.",
                 "The institute is empaneled with government schemes such as the Suvarna Arogya Suraksha Trust (SAST) scheme and now changed to Shravana Sanjeevini and the ADIP scheme which are providing financial support for CI beneficiaries to avail therapy at the unit. Additionally, those who are eligible for the Employees' State Insurance Scheme can also avail therapy at the Unit."
             ],
-          
             "Perspective": [
                 "The prospective plans of CI unit to initiate process for ‘PG Diploma course in Listening Training’, Initiate mother-infant listening training program. Initiate communication strategies training program. Conduct research in the area of ‘Rehabilitative Audiology’ and develop listening training material."
             ],
@@ -372,7 +378,6 @@
             ]
         },
         {
-         
             "about": "Earmolds are custom-made devices that fit snugly in the outer ear. They help to direct sound into the ear canal and improve the fit of hearing aids. The ear mould laboratory is well equipped to make hard as well as soft custom ear moulds. Soft and hard ear moulds are prepared for each patient at the fully equipped ear mould lab. Students are trained in ear mould making. Soft as well as hard custom ear moulds are prepared with silicon and acrylic material. This is available for both in-the-ear and behind the ear type of hearing aids. ",
             "objectives": [
                 "Fabricate high-quality, custom-fit ear moulds tailored to individual patients' needs.",
@@ -383,7 +388,6 @@
                 "Offer follow-up services to adjust and modify ear moulds as needed based on patient feedback and changing needs.",
                 "Offer timely repairs and replacements for damaged or ill-fitting ear moulds."
             ],
-           
             "Perspective": [
                 "Stay updated with the latest technological advancements and incorporate them into the production process."
             ],
@@ -395,16 +399,13 @@
                 }
             ]
         },
-       
         {
-          
             "about": "In recent years, audiology education in India has made significant strides, yet there remains a pressing need for innovative teaching methodologies to ensure comprehensive training for future audiologists. One such advancement is the integration of simulation units within audiology programs. Our simulation units such as audiological evalution, hearing aid fitting, cochlear implant mapping and inter operative procures, tinnitus evlaution and management, psychoacoustic toolbox offer a dynamic learning environment where students can apply theoretical knowledge to practical scenarios, enhancing clinical skills and preparedness. Audiology simulation units simulate real-world clinical scenarios, providing students with hands-on experience in diagnosing and treating hearing disorders. Moreover, simulated or standardized patients may replicate diverse clinical encounters, enabling students to develop communication and patient management skills.",
             "objectives": [
                 "To bridge the gap between theory and practice, allowing students to develop essential clinical skills in a controlled environment.",
                 "Students learn effective communication strategies and patient-centered care through simulated patient encounters, preparing them for diverse clinical settings.",
                 "Simulation units provide a safe space for students to make mistakes, learn from experiences, and refine their skills without compromising patient safety."
             ],
-           
             "Perspective": [
                 "Create dedicated spaces within the lab for different types of simulations, such as hearing assessments, hearing aid fittings, vestibular assessments, and auditory rehabilitation.",
                 "Provide specialized training for faculty members and students on the use of simulation technology and the development of simulation scenarios.",
@@ -430,27 +431,23 @@
             ]
         },
         {
-           
-            "about":"It has been found that more than one-third of the Indian population experience age-related hearing loss, affecting social functioning and quality of life. Despite this, many geriatric individuals manage their hearing difficulties without seeking professional consultation until communication challenges become severe. Even mild hearing loss increases the risk of dementia and contributes to social isolation and psychological distress among older adults. In March 2023, the JSS Institute of Speech and Hearing installed a hearing wellness clinic in the Department of Geriatrics at JSS Hospital, Mysuru. This clinic serves older adults visiting the department, offering free screenings for hearing and cognitive abilities and guiding further referrals for detailed audiological evaluations as needed. For those diagnosed with treatable hearing loss, appropriate hearing aids are recommended to alleviate functional impairments and improve quality of life. The clinic also provides a platform for student training, enhancing clinical skills in geriatric hearing assessment and rehabilitation as part of their educational curriculum. Medical professionals in the department are actively involved in referring cases to the clinic. The clinical process includes comprehensive case histories covering audiological, vestibular, cognitive, and speech-language aspects, along with otoscopic examinations for medical referrals. Screening tests are conducted at frequencies ranging from 500 to 8000 Hz at 25 dB, supplemented by the administration of questionnaires such as HHIE-S, HHIA-S, SCAP-A, and MMSE. Anticipated outcomes include early detection of hearing loss and cognitive decline, prompt referrals for specialized care, fitting of hearing aids where needed, and the use of clinic data for retrospective and prospective research initiatives.",
-        
+            "about": "It has been found that more than one-third of the Indian population experience age-related hearing loss, affecting social functioning and quality of life. Despite this, many geriatric individuals manage their hearing difficulties without seeking professional consultation until communication challenges become severe. Even mild hearing loss increases the risk of dementia and contributes to social isolation and psychological distress among older adults. In March 2023, the JSS Institute of Speech and Hearing installed a hearing wellness clinic in the Department of Geriatrics at JSS Hospital, Mysuru. This clinic serves older adults visiting the department, offering free screenings for hearing and cognitive abilities and guiding further referrals for detailed audiological evaluations as needed. For those diagnosed with treatable hearing loss, appropriate hearing aids are recommended to alleviate functional impairments and improve quality of life. The clinic also provides a platform for student training, enhancing clinical skills in geriatric hearing assessment and rehabilitation as part of their educational curriculum. Medical professionals in the department are actively involved in referring cases to the clinic. The clinical process includes comprehensive case histories covering audiological, vestibular, cognitive, and speech-language aspects, along with otoscopic examinations for medical referrals. Screening tests are conducted at frequencies ranging from 500 to 8000 Hz at 25 dB, supplemented by the administration of questionnaires such as HHIE-S, HHIA-S, SCAP-A, and MMSE. Anticipated outcomes include early detection of hearing loss and cognitive decline, prompt referrals for specialized care, fitting of hearing aids where needed, and the use of clinic data for retrospective and prospective research initiatives.",
             "objectives": [
                 " The objective of the clinic is to screen for the presence of hearing, auditory processing, and cognitive deficits of all the patients who visits the clinic to facilitate early identification of these conditions and rehabilitation in them."
-           
             ],
-          
             "Perspective": [
-                "Conduct awareness program to patients and their families to educate them about hearing loss and systematic illness on  cognitive impairment.", 
-"To develop pamphlets on communication strategies to overcome the difficulties in conversation.", 
-"Participate in or initiate clinical trials to explore new treatment modalities and interventions for elderly individuals.",
-"Collaborate with international organizations and experts to stay abreast of the latest research and treatment methodologies.",
-"Develop an online repository of educational materials, including videos, articles, and interactive tools, to support patient learning on mild cognitive impairment."
- ],
+                "Conduct awareness program to patients and their families to educate them about hearing loss and systematic illness on  cognitive impairment.",
+                "To develop pamphlets on communication strategies to overcome the difficulties in conversation.",
+                "Participate in or initiate clinical trials to explore new treatment modalities and interventions for elderly individuals.",
+                "Collaborate with international organizations and experts to stay abreast of the latest research and treatment methodologies.",
+                "Develop an online repository of educational materials, including videos, articles, and interactive tools, to support patient learning on mild cognitive impairment."
+            ],
             "members": [
                 {
                     "name": "Dr. Pratibha Pereira",
                     "designation": "Professor of Geriatrics",
                     "address": "JSS Hospital",
-                    "path":""
+                    "path": ""
                 },
                 {
                     "name": "Mr. Vipin Goush",
