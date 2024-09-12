@@ -2,10 +2,12 @@ import React, { useState, useEffect } from 'react';
 import './ImageCarousel.css'; // Ensure the CSS file matches the below code
 
 const images = [
-    "../assest/audiol.jpg",
-    "../assest/audiol1.jpg",
-    "../assest/audiol2.jpg",
-    "../assest/audiol3.jpg"
+    "../assest/audiology1.jpg",
+    "../assest/audiology2.jpg",
+    "../assest/audiology3.png",
+    "../assest/audiology4.jpg",
+    "../assest/audiology5.jpg",
+     "../assest/audiology6.jpg"
 ];
 
 const ImageCarousel = () => {
