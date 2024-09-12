@@ -7,7 +7,8 @@ const images = [
     "../assest/audiology3.png",
     "../assest/audiology4.jpg",
     "../assest/audiology5.jpg",
-     "../assest/audiology6.jpg"
+     "../assest/audiology6.jpg",
+      "../assest/audiology7.jpg"
 ];
 
 const ImageCarousel = () => {
