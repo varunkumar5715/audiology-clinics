@@ -1,0 +1,106 @@
+/* Sidebar CSS */
+.sidebar {
+  width: 250px; /* Default width for desktop */
+  flex-shrink: 0;
+  background-color: #1e1e1e; /* Darker background color */
+  height: 100vh;
+
+  color: #fff;
+  
+  transition: width 0.3s;
+  box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
+  
+}
+
+.sidebar .logo {
+  text-align: center;
+  padding: 20px;
+  background-color: #282828; /* Slightly different dark color for the logo area */
+}
+
+.logo img {
+  max-width: 100%;
+  height: auto;
+}
+
+.sidebar-item {
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  transition: background-color 0.15s;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 15px;
+  color: #ffffff; /* Light gray color for text */
+}
+
+.sidebar-item:hover {
+  background-color: rgba(145, 132, 132, 0.1);
+  color: #fff; /* Change text color on hover */
+}
+
+
+.sidebar-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sidebar-content {
+  padding-left: 10px;
+}
+
+.sidebar-item.plain {
+  text-decoration: none;
+  color: inherit; /* Inherit color from parent */
+  display: flex;
+  align-items: center;
+}
+
+
+
+
+/* Hamburger Icon for Mobile */
+.hamburger-icon {
+  position: absolute;
+  top: 10px; /* Adjust the distance from the top */
+  right: 25px; /* Adjust the distance from the right */
+  cursor: pointer;
+  display: none; /* Hidden by default */
+}
+
+.hamburger-icon img {
+  width: 35px; /* Adjust width as needed */
+  height: 35px; /* Adjust height as needed */
+}
+
+/* Media query for mobile devices */
+@media screen and (max-width: 768px) {
+  .sidebar {
+    width: 200px; /* Adjusted width for mobile */
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1000;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease;
+  }
+
+  .sidebar.open {
+    transform: translateX(0);
+  }
+
+  .hamburger-icon {
+    display: block;
+  }
+
+  .sidebar-item {
+    padding: 10px 15px; /* Adjusted padding for mobile */
+  }
+}
+
+/* Optional: Add styles for icons */
+.sidebar-item i {
+  margin-right: 10px;
+}

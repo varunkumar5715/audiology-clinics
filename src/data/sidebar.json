@@ -1,0 +1,73 @@
+[
+    {
+        "title": "Home",
+        "icon": "bi-gear-fill",
+        "position": 1,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Geriatric Hearing Wellness Clinic",
+        "icon": "bi-gear-fill",
+        "position": 2,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Pediatric Hearing Wellness Clinic",
+        "icon": "bi-gear-fill",
+        "position": 3,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Tinnitus Clinic",
+        "icon": "bi-gear-fill",
+        "position": 4,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Vestibular Clinic",
+        "icon": "bi-gear-fill",
+        "position": 5,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Hearing Aid Fitting And Dispensing Unit",
+        "icon": "bi-gear-fill",
+        "position": 6,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": " Cochlear Implant Unit",
+        "icon": "bi-gear-fill",
+        "position": 7,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Communication & Listening Training Unit",
+        "icon": "bi-gear-fill",
+        "position": 8,
+        "path": "/",
+        "childrens": []
+    },
+    {
+        "title": "Ear Mould Unit",
+        "icon": "bi-gear-fill",
+        "position": 9,
+        "path": "/",
+        "childrens": []
+    },
+   
+    {
+        "title": "Simulation Unit",
+        "icon": "bi-gear-fill",
+        "position": 10,
+        "path": "/",
+        "childrens": []
+    }
+]

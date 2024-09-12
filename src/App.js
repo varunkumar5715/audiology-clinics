@@ -1,25 +1,54 @@
-import logo from './logo.svg';
+
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+import PageNotFound from "./pages/PageNotFound";
+import ResearchPage from "./pages/ResearchPage";
+import ContactPage from "./pages/ContactPage";
+import PeoplePage from "./pages/PeoplePage";
+import AnnouncementPage from "./pages/AnnouncementPage";
+
+import { RouteContextProvider } from "./store/RouteContextProvider";
+
 import './App.css';
 
+import LandingPage from "./pages/LandingPage";
 function App() {
+  const router = createBrowserRouter([
+    {
+      path: "/",
+      element: <LandingPage />,
+      errorElement: <PageNotFound />
+    },   
+  
+    {
+      path: "/research",
+      element: <ResearchPage />,
+      errorElement: <PageNotFound />
+    },
+    {
+      path: "/contact",
+      element: <ContactPage />,
+      errorElement: <PageNotFound />
+    },
+    {
+      path: "/people",
+      element: <PeoplePage />,
+      errorElement: <PageNotFound />
+    },
+    {
+      path: "/announcement",
+      element: <AnnouncementPage />,
+      errorElement: <PageNotFound />
+    },
+  ]);
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <RouteContextProvider>
+      <RouterProvider router={router} />
+    </RouteContextProvider>
+    // <LandingPage/>
+  )
 }
 
-export default App;
+export default App
+
