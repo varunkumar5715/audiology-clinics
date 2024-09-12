@@ -1,16 +1,16 @@
 /* Container to hold the entire carousel */
 .carousel-container {
-    position: relative;
-    overflow: hidden; /* Hide images that are outside the view */
-    width: 80vw; /* Adjust the width of the container */
-    height: 60vh; /* Adjust the height of the container */
-    max-width: 800px; /* Optional: Maximum width for the container */
-    max-height: 600px; /* Optional: Maximum height for the container */
-    margin: 0 auto; /* Center the container horizontally */
-    background-color: #f0f0f0; /* Optional: Background color for the container */
-    display: flex;
-    align-items: center; /* Center the content vertically */
-  }
+  position: relative;
+  overflow: hidden; /* Hide images that are outside the view */
+  width: 77vw; /* Full viewport width */
+  height: 70vh; /* Full viewport height */
+  margin: 0; /* Remove any margins */
+  background-color: #f0f0f0; /* Optional: Background color for the container */
+  display: flex;
+  align-items: center; /* Center the content vertically */
+  justify-content: center; /* Center the content horizontally */
+}
+
   
   /* Track for the sliding effect */
   .carousel-track {
@@ -31,8 +31,8 @@
   
   /* Styling for the image */
   .carousel-item img {
-    width: 100%; /* Ensure the image covers the full width of its container */
-    height: 100%; /* Ensure the image covers the full height of its container */
+    width: 77vw; /* Ensure the image covers the full width of its container */
+    height: 70vh; /* Ensure the image covers the full height of its container */
     object-fit: cover; /* Scale the image to cover the container without distortion */
     object-position: center; /* Center the image within the container */
   }

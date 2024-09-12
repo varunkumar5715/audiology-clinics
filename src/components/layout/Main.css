@@ -9,15 +9,14 @@
 
 
 
+.body {
+  padding: 10px;
+  line-height: 30px;
+  flex: 1; /* Take remaining space next to the sidebar */
+  max-height: 70vh; /* Full height of the viewport */
+ /* Enable vertical scrolling */
+}
 
-  .body {
-    padding: 10px;
-    line-height: 30px;
-    flex: 1; /* Take remaining space next to the sidebar */
-    max-height: 100vh; /* Full height of the viewport */
-    overflow: auto; /* Enable scrolling */
-  }
-  
   
 
   
